@@ -1,0 +1,141 @@
+body{
+	margin:0 0;
+	background-color:#FFFFFF;
+	}
+	
+.textbox{
+	border-bottom:1px #295f7a solid;
+	border-top:1px #295f7a solid;
+	border-left:1px #295f7a solid;
+	border-right:1px #295f7a solid;
+	font-size:12px;
+	color:#2878ae;
+	padding-left:5px;
+	}
+	
+.textbox1{
+	border-bottom:1px #d1dae1 solid;
+	border-top:1px #d1dae1 solid;
+	border-left:1px #d1dae1 solid;
+	border-right:1px #d1dae1 solid;
+	font-size:12px;
+	color:#2878ae;
+	padding-left:5px;
+	}
+	
+	
+.textbox a{
+	color:#2878ae;
+	text-decoration:underline;
+	}
+
+
+.formtext{
+	font-family:Tahoma;
+	font-size:12px;
+	color:#747474;
+	line-height:20px;
+	}
+	
+.formtext1{
+	font-family:Tahoma;
+	font-size:11px;
+	color:#747474;
+	}
+	
+.formtext1 a{
+	color:#747474;
+	text-decoration:none;
+	}	
+
+.formtext2{
+	font-family:Tahoma;
+	font-size:11px;
+	color:#232222;
+	line-height:25px;
+	}
+
+.formtext2 a{
+	color:#232222;
+	text-decoration:underline;
+	}
+
+.form-title{
+	font-family:"Trebuchet MS";
+	font-size:15px;
+	color:#297ab2;
+	font-weight:bold;
+	}
+	
+.blue-text{
+	font-family:Tahoma;
+	font-size:11px;
+	color:#1963a1;
+	}
+	
+.blue-text a{
+	color:#297ab2;
+	text-decoration:underline;
+	}
+	
+.title{
+	font-family:Tahoma;
+	font-size:18px;
+	color:#9d9d9d;
+	}
+	
+.logotext{
+	font-family:"Trebuchet MS";
+	font-size:30px;
+	color:#FFFFFF;
+	}
+	
+	
+.titletext{
+	font-family:"Trebuchet MS";
+	font-size:30px;
+	color:#247aa7;
+	}
+
+
+.button-text{
+	font-family:Tahoma;
+	color:#FFFFFF;
+	font-size:14px;
+	}	
+	
+.button-text a{
+	color:#FFFFFF;
+	text-decoration:none;
+	}	
+	
+.login-text{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:13px;
+	color:#2878ae;
+	line-height:150%;
+	}
+	
+.g-btn{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color: #333333;
+	font-weight:bold;
+	}
+	
+.g-btn a{
+	color:#333333;
+	text-decoration:none;
+	}
+	
+.b-btn{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color: #ffffff;
+	letter-spacing:1px;
+	}
+	
+.b-btn a{
+	color:#ffffff	;
+	text-decoration:none;
+	}

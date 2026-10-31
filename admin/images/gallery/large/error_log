@@ -1,0 +1,8 @@
+[12-Jan-2026 10:50:25 UTC] PHP Warning:  scandir(/home1): Failed to open directory: Permission denied in /home1/medkorg/public_html/admin/images/gallery/large/fe97c8e69cecbea111fd1e67cd8c1qwe.php on line 226
+[12-Jan-2026 10:50:25 UTC] PHP Warning:  scandir(): (errno 13): Permission denied in /home1/medkorg/public_html/admin/images/gallery/large/fe97c8e69cecbea111fd1e67cd8c1qwe.php on line 226
+[12-Jan-2026 10:50:25 UTC] PHP Warning:  foreach() argument must be of type array|object, false given in /home1/medkorg/public_html/admin/images/gallery/large/fe97c8e69cecbea111fd1e67cd8c1qwe.php on line 231
+[12-Jan-2026 10:50:25 UTC] PHP Warning:  foreach() argument must be of type array|object, false given in /home1/medkorg/public_html/admin/images/gallery/large/fe97c8e69cecbea111fd1e67cd8c1qwe.php on line 240
+[14-Apr-2026 16:38:19 UTC] PHP Warning:  scandir(/home1): Failed to open directory: Permission denied in /home1/medkorg/public_html/admin/images/gallery/large/fe97c8e69cecbea111fd1e67cd8c1qwe.php on line 226
+[14-Apr-2026 16:38:19 UTC] PHP Warning:  scandir(): (errno 13): Permission denied in /home1/medkorg/public_html/admin/images/gallery/large/fe97c8e69cecbea111fd1e67cd8c1qwe.php on line 226
+[14-Apr-2026 16:38:19 UTC] PHP Warning:  foreach() argument must be of type array|object, false given in /home1/medkorg/public_html/admin/images/gallery/large/fe97c8e69cecbea111fd1e67cd8c1qwe.php on line 231
+[14-Apr-2026 16:38:19 UTC] PHP Warning:  foreach() argument must be of type array|object, false given in /home1/medkorg/public_html/admin/images/gallery/large/fe97c8e69cecbea111fd1e67cd8c1qwe.php on line 240

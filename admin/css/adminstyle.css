@@ -1,0 +1,215 @@
+/* CSS Document */
+
+body {
+	background-color: #666666;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+
+TEXTAREA {
+font: Verdana, Arial, Helvetica, sans-serif;
+font-size: 10pt;
+}
+
+.txtbox {
+	font: Helvetica,Verdana, Arial,sans-serif;
+	font-size: 10pt;
+}
+
+.footer{
+	FONT: 10px/160% Verdana,Tahoma, Arial, sans-serif;
+	color: #d6d6d6;
+}
+
+.text {
+	FONT: 12px/100% Arial, Helvetica, sans-serif;
+	color: #000000;
+}
+.text a { 
+	color: #000000; text-decoration:none;
+}
+.text a:hover 
+{ 
+	color: #B90200; text-decoration:underline;
+}
+
+.news_text {
+	FONT: 12px/160% Tahoma;
+	color: #FFFFFF;
+}
+.texthead {
+	FONT: bold 15px/150% Verdana, Tahoma, Arial, sans-serif;
+	color: #00518C;
+}
+.h1 {
+	FONT: 14px/150% Arial, Helvetica, sans-serif;
+	color: #a83b4f;
+	font-weight:bolder;
+}
+
+.numbers {
+	FONT: bold 13px/135% Verdana, Tahoma, Arial, sans-serif;
+	color: #333333;
+}
+
+.h3 {
+	FONT: bold 13px/135% Verdana, Tahoma, Arial, sans-serif;
+	color: #B90200;
+}
+.text_bold {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+    font-weight: bold;
+	color: #383838;
+	line-height: 150%;
+}
+
+.text_bold_head {
+	font-family: Helvetica,Arial, sans-serif;
+	font-size: 14px;
+    font-weight: bold;
+	color: #000000;
+	line-height: 150%;
+}
+
+A.footerlink:link  { 
+				color: #d6d6d6;
+				FONT: 10px/100% Verdana,Tahoma, Arial, sans-serif;
+				text-decoration : none;
+				}
+A.footerlink:visited { 
+				color: #d6d6d6;
+				FONT: 10px/100% Verdana,Tahoma, Arial, sans-serif;
+				text-decoration : none;
+				}
+A.footerlink:hover { 
+				color: #d6d6d6;
+				FONT: 10px/100% Verdana,Tahoma, Arial, sans-serif;
+				text-decoration : underline;
+				}
+A.footerlink:active  { 
+				color: #d6d6d6;
+				FONT: 10px/100% Verdana,Tahoma, Arial, sans-serif;
+				text-decoration : none;
+				}
+							
+A.more:link  { 
+				color: #a83b4f;
+				FONT: bold normal 11px/130% Tahoma;
+				font-weight:bold;
+				text-decoration : none;
+				}
+A.more:visited { 
+				color: #a83b4f;
+				FONT: bold normal 11px/130% Tahoma;
+				font-weight:bold;
+				text-decoration : none;
+				}
+A.more:hover { 
+				color: #7ae0ee;
+				FONT: bold normal 11px/130% Tahoma;
+				font-weight:bold;
+				text-decoration : underline;
+				}
+A.more:active  { 
+				color: #a83b4f;
+				FONT: bold normal 11px/130% Tahoma;
+				font-weight:bold;
+				text-decoration : none;
+				}
+
+A.footerlink1:link  { 
+				color: #303030;
+				FONT: 11px/100% Verdana,Tahoma, Arial, sans-serif;
+				text-decoration : none;
+				}
+A.footerlink1:visited { 
+				color: #303030;
+				FONT: 11px/100% Verdana,Tahoma, Arial, sans-serif;
+				text-decoration : none;
+				}
+A.footerlink1:hover { 
+				color: #303030;
+				FONT: 11px/100% Verdana,Tahoma, Arial, sans-serif;
+				text-decoration : underline;
+				}
+A.footerlink1:active  { 
+				color: #303030;
+				FONT: 11px/100% Verdana,Tahoma, Arial, sans-serif;
+				text-decoration : none;
+				}
+				
+A.sitelink:link  { 
+				color: #1F7CBF;
+				FONT: 13px/120% Verdana,Tahoma, Arial, sans-serif;
+				font-weight:bold;
+				text-decoration : none;
+				}
+A.sitelink:visited { 
+				color: #1F7CBF;
+				FONT: 13px/120% Verdana,Tahoma, Arial, sans-serif;
+				font-weight:bold;
+				text-decoration : none;
+				}
+A.sitelink:hover { 
+				color: #303030;
+				FONT: 13px/120% Verdana,Tahoma, Arial, sans-serif;
+				font-weight:bold;
+				text-decoration : underline;
+				}
+A.sitelink:active  { 
+				color: #1F7CBF;
+				FONT: 13px/120% Verdana,Tahoma, Arial, sans-serif;
+				font-weight:bold;
+				text-decoration : none;
+				}
+/*A.link:link  { 
+				color: #ffffff;
+				FONT:12px/100%  Verdana, Tahoma, Arial, sans-serif;
+				font-weight:bold;
+				text-decoration : none;
+				}
+A.link:visited { 
+				color: #ffffff;
+				FONT:12px/100%  Verdana, Tahoma, Arial, sans-serif;
+				font-weight:bold;
+				text-decoration : none;
+				}
+A.link:hover { 
+				color: #ffa200;
+				FONT: 12px/100%  Verdana, Tahoma, Arial, sans-serif;
+				font-weight:bold;
+				text-decoration : underline;
+				}
+A.link:active  { 
+				color: #ffffff;
+				FONT: 12px/100%  Verdana, Tahoma, Arial, sans-serif;
+				font-weight:bold;
+				text-decoration : none;
+				}*/
+A.sublink:link  {
+	color: #000000;
+	FONT: normal 11px/150% Arial, Helvetica, sans-serif;
+	text-decoration : none;
+	font-weight:bold;
+				}
+A.sublink:visited { 
+				color: #000000;
+				FONT: normal 11px/150% Arial, Helvetica, sans-serif;
+				text-decoration : none;
+					font-weight:bold;
+				}
+A.sublink:hover { 
+				color: #000000;
+				FONT: normal 11px/150% Arial, Helvetica, sans-serif;
+				text-decoration : underline;
+					font-weight:bold;
+				}
+A.sublink:active  { 
+				color: #000000;
+				FONT: normal 11px/150% Arial, Helvetica, sans-serif;
+				text-decoration : none;
+					font-weight:bold;
+				}
